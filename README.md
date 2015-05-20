@@ -1,5 +1,7 @@
 # math-wall-puzzle
-A wall puzzle game
+A wall puzzle game.
+
+Puzzles are automatically and randomly generated.
 
 Example:
 ```
